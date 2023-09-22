@@ -1,4 +1,4 @@
-# Resume Categorization withm ML and_NLP
+# Resume Categorization with ML and NLP
 
 
 The "Resume Categorization with ML and DL" project focused on automating the categorization of resumes, streamlining the organization and classification of various resume sections for enhanced efficiency in human resources and recruitment processes.
